@@ -1,0 +1,182 @@
+[
+    {
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-home",
+                "available": true,
+                "link": "/dashboard"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Master",
+                "icon": "bx bx-dock-top",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Fabric",
+                        "available": true,
+                        "link": "/fabric/fabric-master"
+                    },
+                    {
+                        "text": "Design",
+                        "available": true,
+                        "link": "/design/design-master"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Sales",
+                "icon": "bx bx-dock-top",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Sales Order",
+                        "available": true,
+                        "link": "/sales/sales-order"
+                    },
+                    {
+                        "text": "Invoice",
+                        "available": true,
+                        "link": "/sales/invoice"
+                    },
+                    {
+                        "text": "Product",
+                        "available": true,
+                        "link": "/sales/sales-product"
+                    },
+                    {
+                        "text": "Customer",
+                        "available": true,
+                        "link": "/sales/sales-customer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Purchase",
+                "icon": "bx bx-purchase-tag-alt",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Bill",
+                        "available": true,
+                        "link": "/purchase/purchase-challan-bill"
+                    },
+                    {
+                        "text": "Return",
+                        "available": true,
+                        "link": "/purchase/purchase-return"
+                    },
+                    {
+                        "text": "Product",
+                        "available": true,
+                        "link": "/purchase/purchase-product"
+                    },
+                    {
+                        "text": "Supplier",
+                        "available": true,
+                        "link": "/cms/supplier-master"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Production",
+                "icon": "bx bx-cog",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Gray",
+                        "available": true,
+                        "link": "/production/gray-production"
+                    },
+                    {
+                        "text": "Job Work",
+                        "available": true,
+                        "link": "/production/job-work-and-production"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Inventory",
+                "icon": "bx bx-box",
+                "available": true,
+                "link": "/inventory/items-inventory"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Work Assignment",
+                "icon": "bx bx-calculator",
+                "available": true,
+                "link": "/sales/work-assignment"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "CMS",
+                "icon": "bx bx-dock-top",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Agent",
+                        "available": true,
+                        "link": "/cms/agent-master"
+                    },
+                    {
+                        "text": "Customer",
+                        "available": true,
+                        "link": "/cms/customer-master"
+                    },
+                    {
+                        "text": "Job Work",
+                        "available": true,
+                        "link": "/cms/job-work-master"
+                    },
+                    {
+                        "text": "Transport",
+                        "available": true,
+                        "link": "/cms/transport-master"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "text": "Rate Calculator",
+                "icon": "bx bx-calculator",
+                "available": true,
+                "link": "/sales/rate-calculator"
+            }
+        ]
+    }
+]
